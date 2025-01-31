@@ -11,33 +11,33 @@ redirect_from:
 
 Education
 ======
-* 2022-2024: Doctoral thesis (Magna cum laude)
-    * Size of lymph-node metastases in prostate cancer patients undergoing radical prostatectomy: implication for imaging and oncologic follow-up of 2705 lymph-node positive patients
+* 2022-2024: **Doctoral thesis** (Magna cum laude)
+    * Size of lymph-node metastases in prostate cancer patients undergoing radical prostatectomy
     * Prof. Lars Budäus, University of Hamburg, Hamburg, Germany
-* Medical School (final grade: excellent – "sehr gut")
-		* Ruprecht Karl University, Heidelberg, Germany (clinical)
-		* Hannover Medical School, Hannover, Germany (pre-clinical)
+* 2012-2019: **Medical School** (final grade: excellent – "sehr gut")
+    * Ruprecht Karl University, Heidelberg, Germany (clinical)
+    * Hannover Medical School, Hannover, Germany (pre-clinical)
 
 
 Work experience
 ======
-* 2024-2025: Post-doctoral research fellowship (stipend)
+* 2024-2025: **Post-doctoral research fellowship** (stipend)
   * Cancer Prognostics and Health Outcomes Unit
   * Centre Hospitalier de l'Université de Montréal, Montréal, Canada
   * Director: Prof. Pierre I. Karakiewicz
 
-* 2021-2025:	Residency in Urology 
+* 2021-2025: **Residency in Urology** 
   * Martini-Klinik Prostate Cancer Center 
   * University Medical Center Hamburg-Eppendorf, Hamburg, Germany
   * Director: Prof. Markus Graefen
 
-* 2021:	Clinical fellowship  
+* 2021:	**Clinical fellowship**  
   * Section Translational Uro-Oncology
   * National Center for Tumor Diseases
   * German Cancer Research Center, Heidelberg, Germany
   * Director: Prof. Dirk Jäger
 
-* 2019-2021:	Residency in Urology 
+* 2019-2021: **Residency in Urology** 
   * Department of Urology
   * University Hospital of Heidelberg, Heidelberg, Germany
   * Director: Prof. Markus Hohenfellner
@@ -45,16 +45,16 @@ Work experience
   
 Awards
 ======
-* 2022: Best doctoral thesis, North German Society of Urology
-* 2023:	Best poster, German Association of Robotic Urology
-* 2022-2023:	Scholarship for Interdisciplinary Oncology by Medac GmbH
+* 2022: **Best doctoral thesis**, North German Society of Urology
+* 2023:	**Best poster**, German Association of Robotic Urology
+* 2022-2023: **Scholarship for Interdisciplinary Oncology** by Medac GmbH
 
 
 Peer Review
 ======
 I have conducted peer-review for over 75 publications in following journals: Lancet Oncology, Nature Reviews, European Urology Focus, World Journal of Urology, BMC Urology, World Journal of Surgical Oncology, Scientific Reports, Complementary Medicine Research, European Journal of Medical Research.
 
-Section Editor for Current Opinion in Urology 2025 - Topic: biochemical recurrence of prostate cancer
+**Section Editor** for Current Opinion in Urology 2025 - Topic: biochemical recurrence of prostate cancer
 
 Grants
 ======
