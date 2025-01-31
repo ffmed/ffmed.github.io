@@ -11,54 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2022-2024: Doctoral thesis (Magna cum laude)
+    * Size of lymph-node metastases in prostate cancer patients undergoing radical prostatectomy: implication for imaging and oncologic follow-up of 2705 lymph-node positive patients
+    * Prof. Lars Budäus, University of Hamburg, Hamburg, Germany
+* Medical School (final grade: excellent – "sehr gut")
+		* Ruprecht Karl University, Heidelberg, Germany (clinical)
+		* Hannover Medical School, Hannover, Germany (pre-clinical)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-2025: Post-doctoral research fellowship (stipend)
+  * Cancer Prognostics and Health Outcomes Unit
+  * Centre Hospitalier de l'Université de Montréal, Montréal, Canada
+  * Director: Prof. Pierre I. Karakiewicz
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-2025:	Residency in Urology 
+  * Martini-Klinik Prostate Cancer Center 
+  * University Medical Center Hamburg-Eppendorf, Hamburg, Germany
+  * Director: Prof. Markus Graefen
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2021:	Clinical fellowship  
+  * Section Translational Uro-Oncology
+  * National Center for Tumor Diseases
+  * German Cancer Research Center, Heidelberg, Germany
+  * Director: Prof. Dirk Jäger
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2019-2021:	Residency in Urology 
+  * Department of Urology
+  * University Hospital of Heidelberg, Heidelberg, Germany
+  * Director: Prof. Markus Hohenfellner
+
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* 2022: Best doctoral thesis, North German Society of Urology
+* 2023:	Best poster, German Association of Robotic Urology
+* 2022-2023:	Scholarship for Interdisciplinary Oncology by Medac GmbH
+
+
+Peer Review
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+I have conducted peer-review for over 75 publications in following journals: Lancet Oncology, Nature Reviews, European Urology Focus, World Journal of Urology, BMC Urology, World Journal of Surgical Oncology, Scientific Reports, Complementary Medicine Research, European Journal of Medical Research.
+
+Section Editor for Current Opinion in Urology 2025 - Topic: biochemical recurrence of prostate cancer
+
+Grants
 ======
-* Currently signed in to 43 different slack teams
+* 2024 - German Cancer Aid:  Operative surgery-oriented research projects “Navigation, outcomes and quality of life in prostate cancer patients after PSMA-targeted surgery” (NICE-PSMA)
