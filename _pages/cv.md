@@ -45,14 +45,14 @@ Work experience
   
 Awards
 ======
-* 2022: **Best doctoral thesis**, North German Society of Urology
+* 2024: **Best doctoral thesis**, North German Society of Urology
 * 2023:	**Best poster**, German Association of Robotic Urology
 * 2022-2023: **Scholarship for Interdisciplinary Oncology** by Medac GmbH
 
 
 Peer Review
 ======
-I have conducted peer-review for over 75 publications in following journals: Lancet Oncology, Nature Reviews, European Urology Focus, World Journal of Urology, BMC Urology, World Journal of Surgical Oncology, Scientific Reports, Complementary Medicine Research, European Journal of Medical Research.
+I have conducted peer-review for over 100 publications in following journals: Lancet Oncology, Nature Reviews Urology, European Urology Focus, European Urology Open Science, World Journal of Urology, BMC Urology, World Journal of Surgical Oncology, Scientific Reports, Complementary Medicine Research, European Journal of Medical Research, European Journal of Nuclear Medicine and Molecular Imaging, and PLOS ONE.
 
 **Section Editor** for Current Opinion in Urology 2025 - Topic: biochemical recurrence of prostate cancer
 
