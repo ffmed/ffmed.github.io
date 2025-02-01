@@ -1,6 +1,6 @@
 ---
 title: "PSMA-targeted fluorescence guidance for robotic-assisted prostatectomy"
-collection: Review article
+collection: Journal Articles 
 category: First / last author
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Test'
