@@ -2,7 +2,10 @@
 title: "Size of lymph-node metastases in prostate cancer patients undergoing radical prostatectomy: implication for imaging and oncologic follow-up of 2705 lymph-node positive patients"
 collection: publications
 category: manuscripts1
-excerpt: 'In this work, we describe the size of lymph node metastases at radical prostatectomy and the implications for prognosis.'
+excerpt: '
+- Test 1
+- Test 2
+- Test 3'
 date: 2024-01-20
 venue: 'World Journal of Urology'
 slidesurl: 'https://link.springer.com/article/10.1007/s00345-023-04724-1'
