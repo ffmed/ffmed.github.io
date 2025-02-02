@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "F. Falkenbach, MD"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dr. Fabian Falkenbach"
 description              : &description "Prostate cancer research"
@@ -77,9 +77,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts1:
-    title: 'Journal Articles (first/last author)'    
+    title: 'Journal Articles (as first or last author)'    
   manuscripts2:
-    title: 'Journal Articles (co-author)'
+    title: 'Journal Articles (as co-author)'
   books:
     title: 'Books'
 
