@@ -2,10 +2,7 @@
 title: "Size of lymph-node metastases in prostate cancer patients undergoing radical prostatectomy: implication for imaging and oncologic follow-up of 2705 lymph-node positive patients"
 collection: publications
 category: manuscripts1
-excerpt: '
-- Test 1
-- Test 2
-- Test 3'
+excerpt: 'This study analyzed 2,705 patients with prostate cancer and lymph node metastases (LNMs) at radical prostatectomy, finding that >1/4 of LNMs were micrometastases (≤2mm). Adverse clinical parameters were inversely associated with micrometastases. Patients with micrometastases-only disease had longer biochemical recurrence-free survival than those with larger lymph node mets.'
 date: 2024-01-20
 venue: 'World Journal of Urology'
 slidesurl: 'https://link.springer.com/article/10.1007/s00345-023-04724-1'
@@ -13,6 +10,9 @@ paperurl: 'https://link.springer.com/content/pdf/10.1007/s00345-023-04724-1.pdf'
 
 citation: 'Falkenbach F, Kachanov M, Leyh-Bannurah SR, et al. Size of lymph-node metastases in prostate cancer patients undergoing radical prostatectomy: implication for imaging and oncologic follow-up of 2705 lymph-node positive patients. World J Urol. 2024;42(1):38. Published 2024 Jan 20. doi:10.1007/s00345-023-04724-1'
 ---
+
+# Personal comment
+Size matters. We found a gradual relationship between lymph node metastasis size and prognosis. Moreover, more than 1/4 of nodal mets were too small to be detected in PSMA imaging. Therefore, PLND remains the gold standard for nodal staging. Conversely, potentially missed nodal mets at PSMA imaging might not exert the same detrimental effect on prognosis as those which can be seen. 
 
 # Abstract
 
